@@ -1,1 +1,0 @@
-# stutern-frontend-task1
